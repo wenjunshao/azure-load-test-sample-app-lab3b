@@ -1,4 +1,4 @@
-az2006app10491name: Load test
+name: Load test
 
 on: [workflow_dispatch]
 
